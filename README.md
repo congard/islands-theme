@@ -4,7 +4,8 @@ JetBrains-inspired Visual Studio Code theme. My goal is not to map the JetBrains
 
 The Islands theme is based on [zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains.git).
 
-> ![NOTE] Go support is the first priority; other languages will be added in the future.
+> [!NOTE]
+> Go support is the first priority; other languages will be added in the future.
 
 ![Go](images/vsc-golang.png)
 

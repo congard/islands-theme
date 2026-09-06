@@ -563,6 +563,18 @@
             }
         },
         {
+            "name": "Markdown - List Bullets",
+            "scope": [
+                "punctuation.definition.list.begin.markdown",
+                "punctuation.definition.list.markdown",
+                "markup.list.unnumbered.bullet.markdown",
+                "beginning-of-line punctuation.definition.list.begin.markdown"
+            ],
+            "settings": {
+                "foreground": "#cf8e6d"
+            }
+        },
+        {
             "name": "Markdown - Links, Footnotes & Delimiters",
             "scope": [
                 "markup.underline.link",

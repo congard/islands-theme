@@ -1,0 +1,38 @@
+{
+  "name": "islands-theme",
+  "displayName": "Islands",
+  "description": "JetBrains-inspired Islands Theme",
+  "author": {
+    "name": "congard",
+    "email": "dbcongard@gmail.com",
+    "url": "https://github.com/congard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/congard/islands-theme.git"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "build": "npm run package",
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.136.0",
+    "vsce": "^2.15.0"
+  },
+  "engines": {
+    "vscode": "^1.136.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Islands",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Islands-color-theme.json"
+      }
+    ]
+  }
+}

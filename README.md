@@ -1,5 +1,7 @@
 # Islands Theme
 
+[![Version](https://badgen.net/vs-marketplace/v/congard.vsc-islands-theme)](https://marketplace.visualstudio.com/items?itemName=congard.vsc-islands-theme)
+
 JetBrains-inspired Visual Studio Code theme. My goal is not to map the JetBrains theme 1-to-1, but rather create a comfortable theme with familiar colors.
 
 The Islands theme is based on [zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains.git).

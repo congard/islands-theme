@@ -2,12 +2,15 @@
 
 [![Version](https://badgen.net/vs-marketplace/v/congard.vsc-islands-theme)](https://marketplace.visualstudio.com/items?itemName=congard.vsc-islands-theme)
 
-JetBrains-inspired Visual Studio Code theme. My goal is not to map the JetBrains theme 1-to-1, but rather create a comfortable theme with familiar colors.
+JetBrains-inspired Visual Studio Code theme.
 
 The Islands theme is based on [zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains.git).
 
 > [!NOTE]
 > Go support is the first priority; other languages will be added in the future.
+
+> [!NOTE]
+> In Go, a method receiver parameter emits the same token as a regular function parameter. So it's impossible to distinguish them for now.
 
 ![Go](images/vsc-golang.png)
 
@@ -38,5 +41,5 @@ npm run package
 ### Install locally
 
 ```bash
-code --install-extension ./islands-theme-0.0.1.vsix
+code --install-extension ./islands-theme-X.Y.Z.vsix
 ```

@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/congard/islands-theme.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/logo.png",
   "scripts": {
     "build": "npm run package",

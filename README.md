@@ -14,7 +14,7 @@ The Islands theme is based on [zed-theme-jetbrains](https://github.com/artemevse
 
 ![Go](images/vsc-golang.png)
 
-Font: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
+Font: [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 <br>Icons: [JetBrains New UI File Icon Theme Extended](https://marketplace.visualstudio.com/items?itemName=fogio.jetbrains-file-icon-theme)
 
 ## Build
